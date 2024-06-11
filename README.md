@@ -38,15 +38,12 @@ Soy un desarrollador apasionado por el desarrollo web, la ciencia de datos y los
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=dark)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=kamilo9809&show_icons=true&theme=dark)
 
-## 🏆 Logros
-- [Certificación 1](#)
-- [Certificación 2](#)
 
 ## 📫 Cómo contactarme
-- [Correo electrónico](mailto:tuemail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- [Correo electrónico](mailto:camilorivera09@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/luis-camilo-rosania-rivera-91b17b14b/?trk=opento_sprofile_topcard)
 
 ---
 
