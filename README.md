@@ -12,6 +12,7 @@ Soy un desarrollador apasionado por el desarrollo web, la ciencia de datos y los
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c%2B%2B)
   
 - **Frontend:**
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
